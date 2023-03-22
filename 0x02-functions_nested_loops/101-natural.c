@@ -2,6 +2,7 @@
 
 /**
  * main - computes and prints the sum of all the multiples
+ * Return: Always 0
  */
 int main(void)
 {
